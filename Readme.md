@@ -31,7 +31,7 @@
 
 ## :interrobang: About
 
-<strong>Finance List</strong> a mobile application to manage your finances.
+<strong>Finance List</strong> a mobile application to manage your finances. Work with a simple json animation and a firebase integration
 
 <a id="techs"></a>
 
