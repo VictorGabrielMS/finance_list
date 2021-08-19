@@ -31,7 +31,7 @@
 
 ## :interrobang: About
 
-<strong>Finance List</strong> a mobile application to manage your finances. Work with a simple json animation and a firebase integration
+<strong>Finance List</strong> a mobile app to manage your finances. Working with firebase for data storage and lottie for rendering json animations, the result of "my weekend code challenges" was this simple app that lets me manage my monetary inputs and outputs.
 
 <a id="techs"></a>
 
