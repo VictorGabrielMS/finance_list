@@ -83,7 +83,7 @@ export const Outflows: React.FC = () => {
         renderItem={({ item }) => (
           <ListItem
             name={item.name}
-            price={item.price}
+            price={-item.price}
             type={item.type}
             id={item.id}
           />
