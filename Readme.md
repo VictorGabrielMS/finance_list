@@ -23,8 +23,8 @@
 ## Finance List
 
 - [About](#about)
-- [Techs](#techs)
 - [The Application](#application)
+- [Techs](#techs)
 - [Clone and use for Free](#clone)
 
 <a id="about"></a>
@@ -32,6 +32,17 @@
 ## :interrobang: About
 
 <strong>Finance List</strong> a mobile app to manage your finances. Working with firebase for data storage and lottie for rendering json animations, the result of "my weekend code challenges" was this simple app that lets me manage my monetary inputs and outputs.
+
+<a id="application"></a>
+
+## :sparkles: The Application
+
+<h1 align="center">
+    <img alt="home" src="github/screen_home.png" width="23%">
+    <img alt="entries" src="github/screen_entries.png" width="23%">
+    <img alt="outflows" src="github/screen_outflows.png" width="23%">
+    <img alt="add" src="github/screen_add_transaction.png" width="23%">
+</h1>
 
 <a id="techs"></a>
 
@@ -49,30 +60,30 @@ The project was developed with the technologies below:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
-<a id="application"></a>
-
-## :sparkles: The Application
-
-<h1 align="center">
-    <img alt="home" src="github/screen_home.png" width="20%">
-    <img alt="entries" src="github/screen_entries.png" width="20%">
-    <img alt="outflows" src="github/screen_outflows.png" width="20%">
-    <img alt="add" src="github/screen_add_transaction.png" width="20%">
-</h1>
-
 <a id="clone"></a>
 
 ## :octocat:Clone this repo
 
-1. Clone :
+1. Clone:
 
 ```sh
   $ git clone https://github.com/VictorGabrielMS/finance_list.git
 ```
+3. Go to folder:
 
-2. Execute:
+```sh
+  $ cd finance_list
+```
+
+3. Execute:
 
 ```sh
   $ npm install
   $ npm run android
+  # or
+  $ npm run ios
 ```
+
+## :memo: License
+
+This project is under MIT LICENSE. for more details follow the link: [LICENSE](LICENSE).
